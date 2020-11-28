@@ -1,0 +1,14 @@
+appdirs
+black
+click
+fastapi
+h11
+mypy-extensions
+pathspec
+pydantic
+regex
+starlette
+toml
+typed-ast
+typing-extensions
+uvicorn
